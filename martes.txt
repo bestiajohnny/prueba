@@ -1,0 +1,4 @@
+1. despertar
+2. caminar
+3. desayuno
+4. correr
